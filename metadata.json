@@ -1,0 +1,6 @@
+{
+  "name": "Aria Download Manager",
+  "description": "A powerful multi-threaded download manager with intelligent segmentation, dark mode, and browser integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
